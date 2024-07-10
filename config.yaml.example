@@ -1,0 +1,2 @@
+port: "8080"
+target_server: "https://www.google.co.jp"
